@@ -60,8 +60,15 @@ Full-Stack AI & Data Engineer with a focus on end-to-end deployment and scalable
 
 ### 📈 Coding Progress
 <a href="https://leetcode.com/u/Haswin03/">
-  <img src="https://leetcard.jacobwujciak.fun/Haswin03?theme=tokyonight&font=Inter&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacobwujciak.fun/Haswin03?theme=tokyonight" alt="LeetCode Stats" />
 </a>
+
+<!-- Alternative if the above still fails -->
+<a href="https://leetcode.com/u/Haswin03/">
+  <img src="https://github-readme-stats.vercel.app/api?username=Haswin03&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</a>
+
+---
 
 ### 📂 Featured Architecture & Projects
 
