@@ -84,6 +84,3 @@ Full-Stack AI & Data Engineer with a focus on end-to-end deployment and scalable
 </div>
 
 ---
-<div align="center">
-  <i>"Transforming raw data into deployable intelligence."</i>
-</div>
