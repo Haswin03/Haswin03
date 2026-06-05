@@ -59,14 +59,16 @@ Full-Stack AI & Data Engineer with a focus on end-to-end deployment and scalable
 ---
 
 ### 📈 Coding Progress
-<a href="https://leetcode.com/u/Haswin03/">
-  <img src="https://leetcard.jacobwujciak.fun/Haswin03?theme=tokyonight" alt="LeetCode Stats" />
-</a>
 
-<!-- Alternative if the above still fails -->
-<a href="https://leetcode.com/u/Haswin03/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haswin03&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</a>
+<div align="left">
+  <a href="https://leetcode.com/u/Haswin03/">
+    <img src="https://img.shields.io/badge/LeetCode-Haswin03-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Active-2ea44f?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Platform-Competitive_Programming-0077b5?style=for-the-badge" alt="Platform" />
+</div>
+
+<p><em>Click the LeetCode badge above to view my current problem-solving streak and ranking.</em></p>
 
 ---
 
