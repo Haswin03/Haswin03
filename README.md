@@ -1,15 +1,15 @@
 <div align="center">
   <h1>Hi, I'm Ashwanth Ram D! 👋</h1>
-  <h3>Full-Stack AI & Data Engineer | Bridging the Gap Between Raw Data and Deployed Intelligence</h3>
+  <h3>Full-Stack AI & Data Engineer | IEEE Published Researcher | Backend Engineering | SSN Alumnus </h3>
   <p>Based in Chennai, Tamil Nadu 📍</p>
 
   <a href="mailto:haswin0369@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE">
+  <a href="https://linkedin.com/in/ashwanth-ram-d-b1063226a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Haswin03">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
@@ -18,7 +18,7 @@
 
 ### 🚀 About Me
 
-I specialize in building scalable, production-ready machine learning pipelines, deep learning models, and interactive data applications. My core focus is transforming unstructured data into highly validated, actionable business intelligence.
+Full-Stack AI & Data Engineer with a focus on end-to-end deployment and scalable architecture. I specialize in bridging the gap between complex machine learning mathematics and production-ready applications. With a proven track record of architecting robust data pipelines, training high-performance predictive models, and deploying interactive business intelligence tools, I transform raw, unstructured data into actionable intelligence that drives strategic decision-making
 
 - 🔭 **I’m currently architecting:** **TalentSchema: AI Resume Parser (BYOS & Context-Aware)** — An enterprise-grade data pipeline converting unstructured PDFs into strictly typed JSON using Pydantic, layout-aware ingestion, and a deterministic math engine.
 - 🌱 **I’m currently learning:** Cloud deployment architectures (AWS/GCP), model quantization for edge deployment, and MLOps best practices.
@@ -35,7 +35,6 @@ I specialize in building scalable, production-ready machine learning pipelines, 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 **AI, Machine Learning & NLP**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -51,9 +50,10 @@ I specialize in building scalable, production-ready machine learning pipelines, 
 ![Selenium](https://img.shields.io/badge/-selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 **BI, Web & Tools**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -75,12 +75,12 @@ I specialize in building scalable, production-ready machine learning pipelines, 
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Haswin03E&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haswin03&theme=tokyonight" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haswin03&layout=compact&theme=tokyonight" width="48%" />
 </div>
 
 ---
